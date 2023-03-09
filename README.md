@@ -29,3 +29,7 @@ Important: I have the final say of deciding if a pack is on the bot or not, even
   - A direct download link to the ZIP of the resource pack
 - Author
   - Your Discord user ID, which is where you can be contacted if issues with the download occur
+- Alias
+  - An optional field that is an alias ID for the pack
+- Name
+  - An optional field that will be the name of the pack. By default this is generated from the ID by removing underscores and making it title case
