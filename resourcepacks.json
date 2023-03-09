@@ -21,25 +21,25 @@
     "author": "144918157377798144"
   },
   "faithful_32x": {
-    "download": "https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/archive/refs/heads/java-latest.zip",
+    "download": "https://database.faithfulpack.net/packs/32x-Java/Experimental/Faithful%2032x%20-%20java-latest%20Experimental.zip",
     "author": "519179484340027392",
     "alias": "faithful"
   },
   "faithful_64x": {
-    "download": "https://github.com/Faithful-Resource-Pack/Faithful-Java-64x/archive/refs/heads/java-latest.zip",
+    "download": "https://database.faithfulpack.net/packs/64x-Java/Experimental/Faithful%2064x%20-%20java-latest%20Experimental.zip",
     "author": "519179484340027392"
   },
   "classic_faithful_32x": {
-    "download": "https://github.com/ClassicFaithful/32x-Jappa/archive/refs/heads/java-latest.zip",
+    "download": "https://database.faithfulpack.net/packs/Classic-32x-Java/Jappa/Classic%20Faithful%2032x%20Jappa%20-%20java-latest.zip",
     "author": "519179484340027392",
     "alias": "classic_faithful"
   },
   "classic_faithful_64x": {
-    "download": "https://github.com/ClassicFaithful/64x-Jappa/archive/refs/heads/java-latest.zip",
+    "download": "https://database.faithfulpack.net/packs/Classic-64x-Java/Jappa/Classic%20Faithful%2064x%20Jappa%20-%20java-latest.zip",
     "author": "519179484340027392"
   },
   "classic_faithful_32x_programmer_art": {
-    "download": "https://github.com/ClassicFaithful/32x-Programmer-Art/archive/refs/heads/java-latest.zip",
+    "download": "https://database.faithfulpack.net/packs/Classic-32x-Java/Programmer%20Art/Classic%20Faithful%2032x%20Programmer%20Art%20-%20java-latest.zip",
     "author": "519179484340027392"
   }
 }
