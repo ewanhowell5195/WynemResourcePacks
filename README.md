@@ -20,6 +20,9 @@ Important: I have the final say of deciding if a pack is on the bot or not, even
   "author": "0123456789"
 }
 ```
+3. Create a pull request showing that you have permission (if required)
+
+## JSON format
 - Version
   - A version number for the pack. Changing this will cause the bot to redownload the pack and update it. This is completely separate from the resource packs development version number.
 - Download
