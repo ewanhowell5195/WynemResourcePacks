@@ -3,5 +3,26 @@
     "version": 1,
     "download": "https://mediafilez.forgecdn.net/files/4406/273/F8thful+-+v5.0.zip",
     "author": "519179484340027392"
+  },
+  "dokucraft_light": {
+    "version": 1,
+    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Light.zip",
+    "author": "144918157377798144",
+    "alias": "dokucraft"
+  },
+  "dokucraft_high": {
+    "version": 1,
+    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-High.zip",
+    "author": "144918157377798144"
+  },
+  "dokucraft_dark": {
+    "version": 1,
+    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Dark.zip",
+    "author": "144918157377798144"
+  },
+  "dokucraft_dwarven": {
+    "version": 1,
+    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Dwarven.zip",
+    "author": "144918157377798144"
   }
 }
