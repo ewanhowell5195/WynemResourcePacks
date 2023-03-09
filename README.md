@@ -20,7 +20,7 @@ Important: I have the final say of deciding if a pack is on the bot or not, even
   "author": "0123456789"
 }
 ```
-3. Create a pull request showing that you have permission (if required)
+3. Create a pull request, and show that you have permission to add the pack (if required)
 
 ## JSON format
 - Version
