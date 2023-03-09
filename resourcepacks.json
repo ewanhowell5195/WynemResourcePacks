@@ -1,54 +1,44 @@
 {
   "f8thful": {
-    "version": 1,
     "download": "https://github.com/ewanhowell5195/F8thful/archive/refs/heads/main.zip",
     "author": "519179484340027392"
   },
   "dokucraft_light": {
-    "version": 1,
     "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Light.zip",
     "author": "144918157377798144",
     "alias": "dokucraft"
   },
   "dokucraft_high": {
-    "version": 1,
     "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-High.zip",
     "author": "144918157377798144"
   },
   "dokucraft_dark": {
-    "version": 1,
     "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Dark.zip",
     "author": "144918157377798144"
   },
   "dokucraft_dwarven": {
-    "version": 1,
     "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Dwarven.zip",
     "author": "144918157377798144"
   },
   "faithful_32x": {
-    "version": 1,
     "download": "https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/archive/refs/heads/java-latest.zip",
     "author": "519179484340027392",
     "alias": "faithful"
   },
   "faithful_64x": {
-    "version": 1,
     "download": "https://github.com/Faithful-Resource-Pack/Faithful-Java-64x/archive/refs/heads/java-latest.zip",
     "author": "519179484340027392"
   },
   "classic_faithful_32x": {
-    "version": 1,
     "download": "https://github.com/ClassicFaithful/32x-Jappa/archive/refs/heads/java-latest.zip",
     "author": "519179484340027392",
     "alias": "classic_faithful"
   },
   "classic_faithful_64x": {
-    "version": 1,
     "download": "https://github.com/ClassicFaithful/64x-Jappa/archive/refs/heads/java-latest.zip",
     "author": "519179484340027392"
   },
   "classic_faithful_32x_programmer_art": {
-    "version": 1,
     "download": "https://github.com/ClassicFaithful/32x-Programmer-Art/archive/refs/heads/java-latest.zip",
     "author": "519179484340027392"
   }
