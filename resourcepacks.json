@@ -22,24 +22,74 @@
   },
   "faithful_32x": {
     "download": "https://database.faithfulpack.net/packs/32x-Java/Experimental/Faithful%2032x%20-%20java-latest%20Experimental.zip",
-    "author": "519179484340027392",
+    "author": [
+      "360249987927638016",
+      "865560086952280084",
+      "672989591283695618",
+      "340497757410295808",
+      "207471947662098432",
+      "838924839086981130",
+      "331073143613423616",
+      "473860522710794250",
+      "401627057915691009"         
+    ],
     "alias": "faithful"
   },
   "faithful_64x": {
     "download": "https://database.faithfulpack.net/packs/64x-Java/Experimental/Faithful%2064x%20-%20java-latest%20Experimental.zip",
-    "author": "519179484340027392"
+    "author": [
+      "360249987927638016",
+      "865560086952280084",
+      "672989591283695618",
+      "340497757410295808",
+      "207471947662098432",
+      "838924839086981130",
+      "331073143613423616",
+      "473860522710794250",
+      "401627057915691009"         
+    ]
   },
   "classic_faithful_32x": {
     "download": "https://database.faithfulpack.net/packs/Classic-32x-Java/Jappa/Classic%20Faithful%2032x%20Jappa%20-%20java-latest.zip",
-    "author": "519179484340027392",
+    "author": [
+      "360249987927638016",
+      "865560086952280084",
+      "672989591283695618",
+      "340497757410295808",
+      "207471947662098432",
+      "838924839086981130",
+      "331073143613423616",
+      "473860522710794250",
+      "401627057915691009"         
+    ],
     "alias": "classic_faithful"
   },
   "classic_faithful_64x": {
     "download": "https://database.faithfulpack.net/packs/Classic-64x-Java/Jappa/Classic%20Faithful%2064x%20Jappa%20-%20java-latest.zip",
-    "author": "519179484340027392"
+    "author": [
+      "360249987927638016",
+      "865560086952280084",
+      "672989591283695618",
+      "340497757410295808",
+      "207471947662098432",
+      "838924839086981130",
+      "331073143613423616",
+      "473860522710794250",
+      "401627057915691009"         
+    ]
   },
   "classic_faithful_32x_programmer_art": {
     "download": "https://database.faithfulpack.net/packs/Classic-32x-Java/Programmer%20Art/Classic%20Faithful%2032x%20Programmer%20Art%20-%20java-latest.zip",
-    "author": "519179484340027392"
+    "author": [
+      "360249987927638016",
+      "865560086952280084",
+      "672989591283695618",
+      "340497757410295808",
+      "207471947662098432",
+      "838924839086981130",
+      "331073143613423616",
+      "473860522710794250",
+      "401627057915691009"         
+    ]
   }
 }
