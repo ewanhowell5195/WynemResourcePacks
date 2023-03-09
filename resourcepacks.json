@@ -4,21 +4,37 @@
     "author": "519179484340027392"
   },
   "dokucraft_light": {
-    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Light.zip",
-    "author": "144918157377798144",
+    "download": "https://github.com/Dokucraft/Dokucraft-Light/archive/refs/heads/master.zip",
+    "author": [
+      "144918157377798144",
+      "146053934182694914",
+      "178394162381455360"
+    ],
     "alias": "dokucraft"
   },
   "dokucraft_high": {
-    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-High.zip",
-    "author": "144918157377798144"
+    "download": "https://github.com/Dokucraft/Dokucraft-High/archive/refs/heads/master.zip",
+    "author": [
+      "144918157377798144",
+      "146053934182694914",
+      "178394162381455360"
+    ]
   },
   "dokucraft_dark": {
-    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Dark.zip",
-    "author": "144918157377798144"
+    "download": "https://github.com/Dokucraft/Dokucraft-Dark/archive/refs/heads/master.zip",
+    "author": [
+      "144918157377798144",
+      "146053934182694914",
+      "178394162381455360"
+    ]
   },
   "dokucraft_dwarven": {
-    "download": "https://dokucraft.co.uk/dl/1.19.3-Dokucraft-Dwarven.zip",
-    "author": "144918157377798144"
+    "download": "https://github.com/Dokucraft/Dokucraft-Dwarven/archive/refs/heads/master.zip",
+    "author": [
+      "144918157377798144",
+      "146053934182694914",
+      "178394162381455360"
+    ]
   },
   "faithful_32x": {
     "download": "https://database.faithfulpack.net/packs/32x-Java/Experimental/Faithful%2032x%20-%20java-latest%20Experimental.zip",
