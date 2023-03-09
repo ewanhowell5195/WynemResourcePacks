@@ -26,7 +26,7 @@ Important: I have the final say of deciding if a pack is on the bot or not, even
 - Download
   - A direct download link to the ZIP of the resource pack
 - Author
-  - Your Discord user ID, which is where you can be contacted if issues with the download occur
+  - Your Discord user ID. This will allow you to reload the pack using the `e!reloadpack` command
 - Alias
   - An optional field that is an alias ID for the pack
 - Name
