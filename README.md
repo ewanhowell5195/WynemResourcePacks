@@ -23,8 +23,6 @@ Important: I have the final say of deciding if a pack is on the bot or not, even
 3. Create a pull request, and show that you have permission to add the pack (if required)
 
 ## JSON format
-- Version
-  - A version number for the pack. Changing this will cause the bot to redownload the pack and update it. This is completely separate from the resource packs development version number.
 - Download
   - A direct download link to the ZIP of the resource pack
 - Author
