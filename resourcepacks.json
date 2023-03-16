@@ -111,5 +111,12 @@
       "473860522710794250",
       "401627057915691009"         
     ]
+  },
+  "barebones": {
+    "download": "https://github.com/RobotPantaloons/Bare-Bones-Java/archive/refs/heads/master.zip",
+    "author": [
+      "588425966804533421",
+      "203612537118261248"
+    ]
   }
 }
