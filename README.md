@@ -16,7 +16,7 @@ Important: I have the final say of deciding if a pack is on the bot or not, even
 2. Add your pack to the list, following this format:
 ```js
 "packID": {
-  "download": "https://download.com/resourcepack.zip",
+  "download": "https://example.com/resourcepack.zip",
   "author": "0123456789"
 }
 ```
