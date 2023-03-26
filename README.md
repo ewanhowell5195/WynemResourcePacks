@@ -40,28 +40,52 @@ When you have a link that has a status code of 200, confirm it is a direct downl
 ### GitHub
 GitHub is the best option for hosting a pack, as it is a dynamic download link. This means that when you update the pack, the link stays the same. For the other services listed below, the link will need to be changed for each update.
 
-1. On the resource pack repository page, click the green code button, right click the `Download Zip` button, and copy the link.
+<details>
+  <summary>Guide</summary>
+  <br>
+  <ol>
+    <li>On the resource pack repository page, click the green code button, right click the <code>Download Zip</code> button, and copy the link.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/github1.png"></li>
+  </ol>
+</details>
 
 ### Modrinth
-1. On the resource pack page, copy the download link.
+<details>
+  <summary>Guide</summary>
+  <br>
+  <ol>
+    <li>On the resource pack page, copy the download link.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/modrinth1.png"></li>
+  </ol>
+</details>
 
 ### CurseForge
-1. To get direct download links on CurseForge, start by right clicking the download button for the file and copying its link.
-2. Next, go to a new tab, then open the developer tools there. You can press F12 or CTRL+SHIFT+I to do this.
-3. In the developer tools, switch to the network tab.
-4. Paste the copied URL into the address bar and hit enter, you should see some new entries appear in the network tab.
-5. Select the one that looks like the pack, and you should see the direct download link appear.
+<details>
+  <summary>Guide</summary>
+  <br>
+  <ol>
+    <li>To get direct download links on CurseForge, start by right clicking the download button for the file and copying its link.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/curseforge1.png"></li>
+    <li>Next, go to a new tab, then open the developer tools there. You can press <code>F12</code> or <code>CTRL+SHIFT+I</code> to do this.</li>
+    <li>In the developer tools, switch to the network tab.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/curseforge2.png"></li>
+    <li>Paste the copied URL into the address bar and hit enter, you should see some new entries appear in the network tab.</li>
+    <li>Select the one that looks like the pack, and you should see the direct download link appear.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/curseforge3.png"></li>
+  </ol>
+</details>
 
 ### Planet Minecraft
 This is only for packs that download directly from Planet Minecraft
 
-1. On the resource pack page, open the developer tools. You can press F12 or CTRL+SHIFT+I to do this.
-2. Select the download button.
-3. You will be switched to the elements tab. In here, you should have selected, or have nearby, and `<a>` element with a `branded-download` class.
-4. On this element, double click on the `target="blank"` remove it.
-5. Next, switch to the network tab and clear it.
-6. Click the download button to download the pack, you should see some new entries appear in the network tab.
-5. Select the one that looks like the pack, and you should see the direct download link appear.
+<details>
+  <summary>Guide</summary>
+  <br>
+  <ol>
+    <li>On the resource pack page, open the developer tools. You can press <code>F12</code> or <code>CTRL+SHIFT+I</code> to do this.</li>
+    <li>Select the inspect tool, then select the download button using it.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/planetminecraft1.png"><br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/planetminecraft2.png"></li>
+    <li>You will be switched to the elements tab. In here, you should have selected, or have nearby, an <code>&lt;a&gt;</code> element with a <code>branded-download</code> class.</li>
+    <li>On this element, double click on the <code>target="blank"</code> remove it.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/planetminecraft3.png"><br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/planetminecraft4.png"></li>
+    <li>Next, switch to the network tab and clear it.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/planetminecraft5.png"></li>
+    <li>Click the download button to download the pack. You should see some new entries appear in the network tab.</li>
+    <li>Select the one that looks like the pack, and you should see the direct download link appear.<br><br><img src="https://raw.githubusercontent.com/ewanhowell5195/WynemResourcePacks/main/images/planetminecraft6.png"></li>
+  </ol>
+</details>
 
 ## Updating packs
 The process of updating a resource pack depends on what type of download link you used. If the link is a dynamic link, you just need to run the `e!reloadpack` command in Wynem, for example `e!reloadpack f8thful`.
