@@ -7,7 +7,7 @@ Anyone can submit resource packs to this repository as long as the pack meets ce
 2. The pack must be of a high quality, and change a substantial amount of the textures in the game
 3. The pack must not be larger than 100MB in size
 4. The URL submitted for the pack must hosted on a trusted public website, such as CurseForge, Modrinth, MediaFire, etc
-5. The pack does not share a name with any past, present, or future Minecraft version
+5. The pack must not share a name with any past, present, or future Minecraft version
 
 Important: I have the final say of deciding if a pack is on the bot or not, even if it meets all the above criteria.
 
