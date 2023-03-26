@@ -127,5 +127,12 @@
   "barely_default": {
     "download": "https://mediafilez.forgecdn.net/files/4418/813/Mickey_Joe%27s_Barely_Default_V.8.zip",
     "author": "118504150978789376"
+  },
+  "optifine": {
+    "download": "https://github.com/ewanhowell5195/OptiFineTextures/archive/refs/heads/main.zip",
+    "author": [
+      "519179484340027392",
+      "202558206495555585"
+    ]
   }
 }
