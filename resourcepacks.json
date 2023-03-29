@@ -134,5 +134,13 @@
       "519179484340027392",
       "202558206495555585"
     ]
+  },
+  "better_bows": {
+    "download": "https://github.com/ewanhowell5195/BetterBows/archive/refs/heads/main.zip",
+    "author": "519179484340027392"
+  },
+  "oledcraft": {
+    "download": "https://github.com/ewanhowell5195/OLEDCraft/archive/refs/heads/main.zip",
+    "author": "519179484340027392"
   }
 }
