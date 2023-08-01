@@ -142,5 +142,9 @@
   "oledcraft": {
     "download": "https://github.com/ewanhowell5195/OLEDCraft/archive/refs/heads/main.zip",
     "author": "519179484340027392"
+  },
+  "umbrella_villagers": {
+    "download": "https://github.com/ewanhowell5195/UmbrellaVillagers/archive/refs/heads/main.zip",
+    "author": "519179484340027392"
   }
 }
