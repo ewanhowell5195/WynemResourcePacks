@@ -150,5 +150,10 @@
   "scrolling_textures": {
     "download": "https://github.com/ewanhowell5195/ScrollingTextures/archive/refs/heads/master.zip",
     "author": "519179484340027392"
+  },
+  "sheepified_remastered": {
+    "download": "https://github.com/ewanhowell5195/SheepifiedRemastered/archive/refs/heads/master.zip",
+    "author": "519179484340027392",
+    "alias": "sheepified"
   }
 }
